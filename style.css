@@ -1,0 +1,10 @@
+/* Augmenter la taille de tous les paragraphes */
+p {
+    font-size: 22px;
+    color: #333;
+}
+
+/* Augmenter la taille des titres */
+h1 {
+    font-size: 40px;
+}
